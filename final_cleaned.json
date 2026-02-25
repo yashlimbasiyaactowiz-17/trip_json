@@ -1,0 +1,184 @@
+{
+    "basic_information": {
+        "hotel_name": "Hilton Garden Inn Mumbai International Airport",
+        "hotel_id": 127226948,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "description": "Nestled only two kilometers away from the Mumbai International Airport, Hilton Garden Inn creates a positively appealing environment, promising exceptional stays for business and leisure travelers alike. Featuring generous rooms and a commitment to personalized, brighthearted hospitality, the hotel seamlessly blends relaxation, comfort and productivity. Our brilliantly designed amenities and elevated extras reflect the idea of thoughtful and bright experiences - one stay at a time."
+    },
+    "policy_information": {
+        "check_in": "After 15:00",
+        "check_out": "Before 12:00"
+    },
+    "location_information": {},
+    "room_details": [
+        {
+            "room_id": null,
+            "room_name": "All Room Types",
+            "room_images": []
+        },
+        {
+            "room_id": 519527237,
+            "room_name": "King Room",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/1mc5e12000mmkc042CCC4.jpg",
+                "https://aw-d.tripcdn.com/images/0221n12000j4eyh9u3D91.jpg",
+                "https://aw-d.tripcdn.com/images/0223812000mil3wboAF98.jpg",
+                "https://aw-d.tripcdn.com/images/0226t12000mil3ypp4D7E.jpg"
+            ]
+        },
+        {
+            "room_id": 519527250,
+            "room_name": "Twin Room",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0222f12000mil3xdb2F18.jpg",
+                "https://aw-d.tripcdn.com/images/0226412000r5zp2m47792.jpg",
+                "https://aw-d.tripcdn.com/images/0223k12000nwdk9j7FA9F.jpg",
+                "https://aw-d.tripcdn.com/images/0220q12000mil3vy12CB1.jpg",
+                "https://aw-d.tripcdn.com/images/0224412000mil3uto6F47.jpg"
+            ]
+        },
+        {
+            "room_id": 519527249,
+            "room_name": "King Room With City View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0220312000lg1dipj32DC.jpg",
+                "https://aw-d.tripcdn.com/images/0223712000mil464jDC34.jpg",
+                "https://aw-d.tripcdn.com/images/0222c12000mil47c65A76.jpg",
+                "https://aw-d.tripcdn.com/images/0221612000mil42vm511E.jpg"
+            ]
+        },
+        {
+            "room_id": 519527254,
+            "room_name": "Twin Room With Runway View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0222j12000mil42ei3782.jpg",
+                "https://aw-d.tripcdn.com/images/0222212000mil423h9E1D.jpg",
+                "https://aw-d.tripcdn.com/images/0220q12000mil3vy12CB1.jpg",
+                "https://aw-d.tripcdn.com/images/0224412000mil3uto6F47.jpg"
+            ]
+        },
+        {
+            "room_id": 519527251,
+            "room_name": "King Room With Runway View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0222u12000l7nrxrrC7C5.jpg",
+                "https://aw-d.tripcdn.com/images/0221912000mil42wzF1F5.jpg",
+                "https://aw-d.tripcdn.com/images/0222c12000mil47c65A76.jpg",
+                "https://aw-d.tripcdn.com/images/1mc0a12000mmkj8gaB881.jpg",
+                "https://aw-d.tripcdn.com/images/0226212000j4eyh9o647C.jpg"
+            ]
+        },
+        {
+            "room_id": 519527253,
+            "room_name": "Deluxe Twin Room With Runway View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0224d12000rl01fsqCAD6.jpg",
+                "https://aw-d.tripcdn.com/images/0222212000mil423h9E1D.jpg",
+                "https://aw-d.tripcdn.com/images/0226412000r5zp2m47792.jpg",
+                "https://aw-d.tripcdn.com/images/0223k12000nwdk9j7FA9F.jpg",
+                "https://aw-d.tripcdn.com/images/1mc4412000mmkpw2oBFE2.jpg",
+                "https://aw-d.tripcdn.com/images/0222r12000l9lwqj77541.jpg",
+                "https://aw-d.tripcdn.com/images/0224a12000mjpy89pA366.jpg",
+                "https://aw-d.tripcdn.com/images/1mc0w12000mmkqhd58F95.jpg",
+                "https://aw-d.tripcdn.com/images/0223z12000k0n4zkw6DF6.jpg"
+            ]
+        },
+        {
+            "room_id": 519527240,
+            "room_name": "Deluxe King Room With City View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/1mc5q12000mmkm3yr767D.jpg",
+                "https://aw-d.tripcdn.com/images/0226b12000mil3zpk3C3C.jpg",
+                "https://aw-d.tripcdn.com/images/0225012000j4eygdx105F.jpg",
+                "https://aw-d.tripcdn.com/images/0221j12000milc708A521.jpg"
+            ]
+        },
+        {
+            "room_id": 526504270,
+            "room_name": "Deluxe Twin Room With City View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0223912000mil432z7F45.jpg",
+                "https://aw-d.tripcdn.com/images/0226q12000mil46kw2547.jpg",
+                "https://aw-d.tripcdn.com/images/0226412000r5zp2m47792.jpg",
+                "https://aw-d.tripcdn.com/images/0220q12000mil3vy12CB1.jpg",
+                "https://aw-d.tripcdn.com/images/0221612000mil42vm511E.jpg"
+            ]
+        },
+        {
+            "room_id": 519527258,
+            "room_name": "Deluxe King Room With Runway View",
+            "room_images": [
+                "https://aw-d.tripcdn.com/images/0220a12000mil493gAF70.jpg",
+                "https://aw-d.tripcdn.com/images/0222c12000mil47c65A76.jpg",
+                "https://aw-d.tripcdn.com/images/0224s12000mil4boaB5C5.jpg",
+                "https://aw-d.tripcdn.com/images/0224t12000mil469z0712.jpg"
+            ]
+        }
+    ],
+    "services_and_amenities": {
+        "Outdoor swimming pool": [],
+        "Parking": [
+            "Valet parking"
+        ],
+        "Transportation": [
+            "Car rentals",
+            "Priority airport pick-up",
+            "Priority airport drop-off"
+        ],
+        "Restaurant": [
+            "Restaurant"
+        ],
+        "Front desk services": [
+            "Safe at front desk",
+            "Wake-up call",
+            "Currency exchange"
+        ],
+        "Languages spoken": [
+            "English",
+            "Hindi"
+        ],
+        "Food & drink": [
+            "Bar",
+            "Room service"
+        ],
+        "Health & wellness": [
+            "Beauty and makeup",
+            "Gym"
+        ],
+        "Public areas": [
+            "No smoking in public areas",
+            "Elevator"
+        ],
+        "Cleaning services": [
+            "Dry cleaning",
+            "Laundry service (on-site)",
+            "Ironing service",
+            "Clothes steamer"
+        ],
+        "Facilities for children": [
+            "Children's meals available"
+        ],
+        "Business services": [
+            "Conference room",
+            "Fax/copying service",
+            "Business center",
+            "Multimedia display system"
+        ],
+        "Accessibility": [
+            "Accessible rooms available"
+        ],
+        "Safety & security": [
+            "First aid kit",
+            "Intruder alarm",
+            "Smoke detector",
+            "Fire extinguisher",
+            "CCTV in public areas",
+            "Security personnel",
+            "First aid room"
+        ]
+    },
+    "reviews_information": {},
+    "recommendations": {}
+}
